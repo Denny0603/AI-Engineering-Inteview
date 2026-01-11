@@ -1,0 +1,7 @@
+.env
+key
+*.ipynb
+__pycache__/
+venv/
+.env.*
+
