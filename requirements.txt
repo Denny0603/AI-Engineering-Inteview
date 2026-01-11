@@ -4,5 +4,5 @@ langchain==0.1.0
 langchain-community==0.3.31
 langchain-groq==0.1.6
 faiss-cpu>=1.7.4
-torch==2.1.0
+torch
 sentence-transformers==2.2.2
